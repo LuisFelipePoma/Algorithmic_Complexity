@@ -1,0 +1,889 @@
+{
+      "types": [
+            {
+                  "code": "AFG",
+                  "country": "Afghanistan",
+                  "color": "#86DECA"
+            },
+            {
+                  "code": "AGO",
+                  "country": "Angola",
+                  "color": "#1C1380"
+            },
+            {
+                  "code": "ALB",
+                  "country": "Albania",
+                  "color": "#26DF64"
+            },
+            {
+                  "code": "ARE",
+                  "country": "United Arab Emirates",
+                  "color": "#5CE0BA"
+            },
+            {
+                  "code": "ARG",
+                  "country": "Argentina",
+                  "color": "#60FC5C"
+            },
+            {
+                  "code": "ARM",
+                  "country": "Armenia",
+                  "color": "#7BC829"
+            },
+            {
+                  "code": "ATA",
+                  "country": "Antarctica",
+                  "color": "#95FD0D"
+            },
+            {
+                  "code": "ATF",
+                  "country": "French Southern and Antarctic Lands",
+                  "color": "#1D0EAA"
+            },
+            {
+                  "code": "AUS",
+                  "country": "Australia",
+                  "color": "#2D3150"
+            },
+            {
+                  "code": "AUT",
+                  "country": "Austria",
+                  "color": "#E0D44D"
+            },
+            {
+                  "code": "AZE",
+                  "country": "Azerbaijan",
+                  "color": "#4FC60A"
+            },
+            {
+                  "code": "BDI",
+                  "country": "Burundi",
+                  "color": "#A192DB"
+            },
+            {
+                  "code": "BEL",
+                  "country": "Belgium",
+                  "color": "#59A242"
+            },
+            {
+                  "code": "BEN",
+                  "country": "Benin",
+                  "color": "#7FC3E9"
+            },
+            {
+                  "code": "BFA",
+                  "country": "Burkina Faso",
+                  "color": "#B6B219"
+            },
+            {
+                  "code": "BGD",
+                  "country": "Bangladesh",
+                  "color": "#4A5B24"
+            },
+            {
+                  "code": "BGR",
+                  "country": "Bulgaria",
+                  "color": "#31D904"
+            },
+            {
+                  "code": "BHS",
+                  "country": "The Bahamas",
+                  "color": "#A5E0A5"
+            },
+            {
+                  "code": "BIH",
+                  "country": "Bosnia and Herzegovina",
+                  "color": "#E66F70"
+            },
+            {
+                  "code": "BLR",
+                  "country": "Belarus",
+                  "color": "#FF418C"
+            },
+            {
+                  "code": "BLZ",
+                  "country": "Belize",
+                  "color": "#73A0E4"
+            },
+            {
+                  "code": "BOL",
+                  "country": "Bolivia",
+                  "color": "#2016A4"
+            },
+            {
+                  "code": "BRA",
+                  "country": "Brazil",
+                  "color": "#E1BE62"
+            },
+            {
+                  "code": "BRN",
+                  "country": "Brunei",
+                  "color": "#F285EE"
+            },
+            {
+                  "code": "BTN",
+                  "country": "Bhutan",
+                  "color": "#42D88F"
+            },
+            {
+                  "code": "BWA",
+                  "country": "Botswana",
+                  "color": "#BDDE72"
+            },
+            {
+                  "code": "CAF",
+                  "country": "Central African Republic",
+                  "color": "#7F0B8C"
+            },
+            {
+                  "code": "CAN",
+                  "country": "Canada",
+                  "color": "#40D6B0"
+            },
+            {
+                  "code": "CHE",
+                  "country": "Switzerland",
+                  "color": "#04AC87"
+            },
+            {
+                  "code": "CHL",
+                  "country": "Chile",
+                  "color": "#9BD3E9"
+            },
+            {
+                  "code": "CHN",
+                  "country": "China",
+                  "color": "#05F78D"
+            },
+            {
+                  "code": "CIV",
+                  "country": "Ivory Coast",
+                  "color": "#47F538"
+            },
+            {
+                  "code": "CMR",
+                  "country": "Cameroon",
+                  "color": "#FBEAB9"
+            },
+            {
+                  "code": "COD",
+                  "country": "Democratic Republic of the Congo",
+                  "color": "#05E39D"
+            },
+            {
+                  "code": "COG",
+                  "country": "Republic of the Congo",
+                  "color": "#864655"
+            },
+            {
+                  "code": "COL",
+                  "country": "Colombia",
+                  "color": "#D94E68"
+            },
+            {
+                  "code": "CRI",
+                  "country": "Costa Rica",
+                  "color": "#00B2FF"
+            },
+            {
+                  "code": "CUB",
+                  "country": "Cuba",
+                  "color": "#2BDE34"
+            },
+            {
+                  "code": "-99",
+                  "country": "Northern Cyprus",
+                  "color": "#6A41B7"
+            },
+            {
+                  "code": "CYP",
+                  "country": "Cyprus",
+                  "color": "#2B5269"
+            },
+            {
+                  "code": "CZE",
+                  "country": "Czech Republic",
+                  "color": "#30B4EE"
+            },
+            {
+                  "code": "DEU",
+                  "country": "Germany",
+                  "color": "#DFC441"
+            },
+            {
+                  "code": "DJI",
+                  "country": "Djibouti",
+                  "color": "#822B58"
+            },
+            {
+                  "code": "DNK",
+                  "country": "Denmark",
+                  "color": "#938A4F"
+            },
+            {
+                  "code": "DOM",
+                  "country": "Dominican Republic",
+                  "color": "#54B984"
+            },
+            {
+                  "code": "DZA",
+                  "country": "Algeria",
+                  "color": "#EB1066"
+            },
+            {
+                  "code": "ECU",
+                  "country": "Ecuador",
+                  "color": "#01C23A"
+            },
+            {
+                  "code": "EGY",
+                  "country": "Egypt",
+                  "color": "#12C36B"
+            },
+            {
+                  "code": "ERI",
+                  "country": "Eritrea",
+                  "color": "#2C24CA"
+            },
+            {
+                  "code": "ESP",
+                  "country": "Spain",
+                  "color": "#B05759"
+            },
+            {
+                  "code": "EST",
+                  "country": "Estonia",
+                  "color": "#296D99"
+            },
+            {
+                  "code": "ETH",
+                  "country": "Ethiopia",
+                  "color": "#1D8615"
+            },
+            {
+                  "code": "FIN",
+                  "country": "Finland",
+                  "color": "#D770EC"
+            },
+            {
+                  "code": "FJI",
+                  "country": "Fiji",
+                  "color": "#4A55C9"
+            },
+            {
+                  "code": "FLK",
+                  "country": "Falkland Islands",
+                  "color": "#F26584"
+            },
+            {
+                  "code": "FRA",
+                  "country": "France",
+                  "color": "#853740"
+            },
+            {
+                  "code": "GAB",
+                  "country": "Gabon",
+                  "color": "#75CF8E"
+            },
+            {
+                  "code": "GBR",
+                  "country": "England",
+                  "color": "#FE3A9F"
+            },
+            {
+                  "code": "GEO",
+                  "country": "Georgia",
+                  "color": "#F2CA7B"
+            },
+            {
+                  "code": "GHA",
+                  "country": "Ghana",
+                  "color": "#151CA1"
+            },
+            {
+                  "code": "GIN",
+                  "country": "Guinea",
+                  "color": "#F41F44"
+            },
+            {
+                  "code": "GMB",
+                  "country": "Gambia",
+                  "color": "#647E5C"
+            },
+            {
+                  "code": "GNB",
+                  "country": "Guinea Bissau",
+                  "color": "#3E7190"
+            },
+            {
+                  "code": "GNQ",
+                  "country": "Equatorial Guinea",
+                  "color": "#8A2BE3"
+            },
+            {
+                  "code": "GRC",
+                  "country": "Greece",
+                  "color": "#0EEFCB"
+            },
+            {
+                  "code": "GRL",
+                  "country": "Greenland",
+                  "color": "#4D818E"
+            },
+            {
+                  "code": "GTM",
+                  "country": "Guatemala",
+                  "color": "#FF41EE"
+            },
+            {
+                  "code": "GUY",
+                  "country": "Guyana",
+                  "color": "#AB4282"
+            },
+            {
+                  "code": "HND",
+                  "country": "Honduras",
+                  "color": "#5AF6CD"
+            },
+            {
+                  "code": "HRV",
+                  "country": "Croatia",
+                  "color": "#9C7B44"
+            },
+            {
+                  "code": "HTI",
+                  "country": "Haiti",
+                  "color": "#30B696"
+            },
+            {
+                  "code": "HUN",
+                  "country": "Hungary",
+                  "color": "#42E05C"
+            },
+            {
+                  "code": "IDN",
+                  "country": "Indonesia",
+                  "color": "#1D2537"
+            },
+            {
+                  "code": "IND",
+                  "country": "India",
+                  "color": "#31B817"
+            },
+            {
+                  "code": "IRL",
+                  "country": "Ireland",
+                  "color": "#8353EB"
+            },
+            {
+                  "code": "IRN",
+                  "country": "Iran",
+                  "color": "#87696C"
+            },
+            {
+                  "code": "IRQ",
+                  "country": "Iraq",
+                  "color": "#3B461C"
+            },
+            {
+                  "code": "ISL",
+                  "country": "Iceland",
+                  "color": "#CB9C6D"
+            },
+            {
+                  "code": "ISR",
+                  "country": "Israel",
+                  "color": "#E7E6B2"
+            },
+            {
+                  "code": "ITA",
+                  "country": "Italy",
+                  "color": "#B4A1D8"
+            },
+            {
+                  "code": "JAM",
+                  "country": "Jamaica",
+                  "color": "#67EC8F"
+            },
+            {
+                  "code": "JOR",
+                  "country": "Jordan",
+                  "color": "#168A18"
+            },
+            {
+                  "code": "JPN",
+                  "country": "Japan",
+                  "color": "#49A887"
+            },
+            {
+                  "code": "KAZ",
+                  "country": "Kazakhstan",
+                  "color": "#C5ACBD"
+            },
+            {
+                  "code": "KEN",
+                  "country": "Kenya",
+                  "color": "#56A308"
+            },
+            {
+                  "code": "KGZ",
+                  "country": "Kyrgyzstan",
+                  "color": "#5436A8"
+            },
+            {
+                  "code": "KHM",
+                  "country": "Cambodia",
+                  "color": "#8D977D"
+            },
+            {
+                  "code": "KOR",
+                  "country": "South Korea",
+                  "color": "#EE8E58"
+            },
+            {
+                  "code": "OSA",
+                  "country": "Kosovo",
+                  "color": "#A82888"
+            },
+            {
+                  "code": "KWT",
+                  "country": "Kuwait",
+                  "color": "#BA93B1"
+            },
+            {
+                  "code": "LAO",
+                  "country": "Laos",
+                  "color": "#C4AC47"
+            },
+            {
+                  "code": "LBN",
+                  "country": "Lebanon",
+                  "color": "#2ADBA1"
+            },
+            {
+                  "code": "LBR",
+                  "country": "Liberia",
+                  "color": "#A64F39"
+            },
+            {
+                  "code": "LBY",
+                  "country": "Libya",
+                  "color": "#AC11FE"
+            },
+            {
+                  "code": "LKA",
+                  "country": "Sri Lanka",
+                  "color": "#2B425B"
+            },
+            {
+                  "code": "LSO",
+                  "country": "Lesotho",
+                  "color": "#261C08"
+            },
+            {
+                  "code": "LTU",
+                  "country": "Lithuania",
+                  "color": "#2FB862"
+            },
+            {
+                  "code": "LUX",
+                  "country": "Luxembourg",
+                  "color": "#7660E5"
+            },
+            {
+                  "code": "LVA",
+                  "country": "Latvia",
+                  "color": "#40B17F"
+            },
+            {
+                  "code": "MAR",
+                  "country": "Morocco",
+                  "color": "#A4D0F6"
+            },
+            {
+                  "code": "MDA",
+                  "country": "Moldova",
+                  "color": "#36BC20"
+            },
+            {
+                  "code": "MDG",
+                  "country": "Madagascar",
+                  "color": "#DF452F"
+            },
+            {
+                  "code": "MEX",
+                  "country": "Mexico",
+                  "color": "#8D8097"
+            },
+            {
+                  "code": "MKD",
+                  "country": "Macedonia",
+                  "color": "#6CE8FC"
+            },
+            {
+                  "code": "MLI",
+                  "country": "Mali",
+                  "color": "#8965F9"
+            },
+            {
+                  "code": "MMR",
+                  "country": "Myanmar",
+                  "color": "#D058DF"
+            },
+            {
+                  "code": "MNE",
+                  "country": "Montenegro",
+                  "color": "#022E61"
+            },
+            {
+                  "code": "MNG",
+                  "country": "Mongolia",
+                  "color": "#0CCE11"
+            },
+            {
+                  "code": "MOZ",
+                  "country": "Mozambique",
+                  "color": "#408863"
+            },
+            {
+                  "code": "MRT",
+                  "country": "Mauritania",
+                  "color": "#C60464"
+            },
+            {
+                  "code": "MWI",
+                  "country": "Malawi",
+                  "color": "#9C33B5"
+            },
+            {
+                  "code": "MYS",
+                  "country": "Malaysia",
+                  "color": "#8BEF32"
+            },
+            {
+                  "code": "NAM",
+                  "country": "Namibia",
+                  "color": "#081517"
+            },
+            {
+                  "code": "NCL",
+                  "country": "New Caledonia",
+                  "color": "#3691E4"
+            },
+            {
+                  "code": "NER",
+                  "country": "Niger",
+                  "color": "#DD6BF1"
+            },
+            {
+                  "code": "NGA",
+                  "country": "Nigeria",
+                  "color": "#9E96DF"
+            },
+            {
+                  "code": "NIC",
+                  "country": "Nicaragua",
+                  "color": "#7D53EB"
+            },
+            {
+                  "code": "NLD",
+                  "country": "Netherlands",
+                  "color": "#51856B"
+            },
+            {
+                  "code": "NOR",
+                  "country": "Norway",
+                  "color": "#B2BCF3"
+            },
+            {
+                  "code": "NPL",
+                  "country": "Nepal",
+                  "color": "#C4B5C0"
+            },
+            {
+                  "code": "NZL",
+                  "country": "New Zealand",
+                  "color": "#8DCD11"
+            },
+            {
+                  "code": "OMN",
+                  "country": "Oman",
+                  "color": "#D418CC"
+            },
+            {
+                  "code": "PAK",
+                  "country": "Pakistan",
+                  "color": "#99242B"
+            },
+            {
+                  "code": "PAN",
+                  "country": "Panama",
+                  "color": "#5CD1FD"
+            },
+            {
+                  "code": "PER",
+                  "country": "Peru",
+                  "color": "#9308C4"
+            },
+            {
+                  "code": "PHL",
+                  "country": "Philippines",
+                  "color": "#6BE4C2"
+            },
+            {
+                  "code": "PNG",
+                  "country": "Papua New Guinea",
+                  "color": "#CABCAF"
+            },
+            {
+                  "code": "POL",
+                  "country": "Poland",
+                  "color": "#FF203F"
+            },
+            {
+                  "code": "PRI",
+                  "country": "Puerto Rico",
+                  "color": "#740181"
+            },
+            {
+                  "code": "PRK",
+                  "country": "North Korea",
+                  "color": "#194000"
+            },
+            {
+                  "code": "PRT",
+                  "country": "Portugal",
+                  "color": "#CDB221"
+            },
+            {
+                  "code": "PRY",
+                  "country": "Paraguay",
+                  "color": "#87582D"
+            },
+            {
+                  "code": "QAT",
+                  "country": "Qatar",
+                  "color": "#EE56CC"
+            },
+            {
+                  "code": "ROU",
+                  "country": "Romania",
+                  "color": "#1AAF34"
+            },
+            {
+                  "code": "RUS",
+                  "country": "Russia",
+                  "color": "#4F7238"
+            },
+            {
+                  "code": "RWA",
+                  "country": "Rwanda",
+                  "color": "#4B8B99"
+            },
+            {
+                  "code": "ESH",
+                  "country": "Western Sahara",
+                  "color": "#0FEB04"
+            },
+            {
+                  "code": "SAU",
+                  "country": "Saudi Arabia",
+                  "color": "#994125"
+            },
+            {
+                  "code": "SDN",
+                  "country": "Sudan",
+                  "color": "#6816A6"
+            },
+            {
+                  "code": "SDS",
+                  "country": "South Sudan",
+                  "color": "#90C7C1"
+            },
+            {
+                  "code": "SEN",
+                  "country": "Senegal",
+                  "color": "#16C064"
+            },
+            {
+                  "code": "SLB",
+                  "country": "Solomon Islands",
+                  "color": "#2141D2"
+            },
+            {
+                  "code": "SLE",
+                  "country": "Sierra Leone",
+                  "color": "#C621EC"
+            },
+            {
+                  "code": "SLV",
+                  "country": "El Salvador",
+                  "color": "#1E70AA"
+            },
+            {
+                  "code": "ABV",
+                  "country": "Somaliland",
+                  "color": "#68D31C"
+            },
+            {
+                  "code": "SOM",
+                  "country": "Somalia",
+                  "color": "#65A713"
+            },
+            {
+                  "code": "SRB",
+                  "country": "Republic of Serbia",
+                  "color": "#865C8A"
+            },
+            {
+                  "code": "SUR",
+                  "country": "Suriname",
+                  "color": "#1A8DA3"
+            },
+            {
+                  "code": "SVK",
+                  "country": "Slovakia",
+                  "color": "#5848D9"
+            },
+            {
+                  "code": "SVN",
+                  "country": "Slovenia",
+                  "color": "#4BBD16"
+            },
+            {
+                  "code": "SWE",
+                  "country": "Sweden",
+                  "color": "#48B574"
+            },
+            {
+                  "code": "SWZ",
+                  "country": "Swaziland",
+                  "color": "#7D7542"
+            },
+            {
+                  "code": "SYR",
+                  "country": "Syria",
+                  "color": "#141CE0"
+            },
+            {
+                  "code": "TCD",
+                  "country": "Chad",
+                  "color": "#7AC948"
+            },
+            {
+                  "code": "TGO",
+                  "country": "Togo",
+                  "color": "#125C88"
+            },
+            {
+                  "code": "THA",
+                  "country": "Thailand",
+                  "color": "#ADE2FF"
+            },
+            {
+                  "code": "TJK",
+                  "country": "Tajikistan",
+                  "color": "#12EB3C"
+            },
+            {
+                  "code": "TKM",
+                  "country": "Turkmenistan",
+                  "color": "#495656"
+            },
+            {
+                  "code": "TLS",
+                  "country": "East Timor",
+                  "color": "#59E0C4"
+            },
+            {
+                  "code": "TTO",
+                  "country": "Trinidad and Tobago",
+                  "color": "#201F6E"
+            },
+            {
+                  "code": "TUN",
+                  "country": "Tunisia",
+                  "color": "#4F7D86"
+            },
+            {
+                  "code": "TUR",
+                  "country": "Turkey",
+                  "color": "#021EF5"
+            },
+            {
+                  "code": "TWN",
+                  "country": "Taiwan",
+                  "color": "#A338E0"
+            },
+            {
+                  "code": "TZA",
+                  "country": "United Republic of Tanzania",
+                  "color": "#A07D11"
+            },
+            {
+                  "code": "UGA",
+                  "country": "Uganda",
+                  "color": "#FDF39A"
+            },
+            {
+                  "code": "UKR",
+                  "country": "Ukraine",
+                  "color": "#E7D6CD"
+            },
+            {
+                  "code": "URY",
+                  "country": "Uruguay",
+                  "color": "#350BE1"
+            },
+            {
+                  "code": "USA",
+                  "country": "USA",
+                  "color": "#CA27E7"
+            },
+            {
+                  "code": "UZB",
+                  "country": "Uzbekistan",
+                  "color": "#8CE473"
+            },
+            {
+                  "code": "VEN",
+                  "country": "Venezuela",
+                  "color": "#19A184"
+            },
+            {
+                  "code": "VNM",
+                  "country": "Vietnam",
+                  "color": "#9B91A3"
+            },
+            {
+                  "code": "VUT",
+                  "country": "Vanuatu",
+                  "color": "#7BCB02"
+            },
+            {
+                  "code": "PSE",
+                  "country": "West Bank",
+                  "color": "#B3CE17"
+            },
+            {
+                  "code": "YEM",
+                  "country": "Yemen",
+                  "color": "#FB3FF7"
+            },
+            {
+                  "code": "ZAF",
+                  "country": "South Africa",
+                  "color": "#ACCC43"
+            },
+            {
+                  "code": "ZMB",
+                  "country": "Zambia",
+                  "color": "#136E77"
+            },
+            {
+                  "code": "ZWE",
+                  "country": "Zimbabwe",
+                  "color": "#375798"
+            }
+      ]
+}

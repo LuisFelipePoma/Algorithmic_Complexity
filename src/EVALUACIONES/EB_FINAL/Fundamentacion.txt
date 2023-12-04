@@ -1,0 +1,3 @@
+En este caso nos informan que se requiere hallar la cantidad maxima posible de paquetes transportados desde un punto origen (Lima) a un punto destino (Arequipa), 
+podemos inferir a partir de esto que el mejor algoritmo para este caso seria Ford-Fulkerson, ya que este nos permite hallar el flujo maximo entre un nodo origen 
+y un nodo destino. Por lo tanto en cada iteracion del algoritmo este ira aumentando el flujo de cada camino hasta que halle el maximo.
